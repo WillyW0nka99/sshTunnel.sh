@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Display help menu
 function show_help() {
     echo "A simple script to simplify SSH port forwarding, making it easier to manage connections and add custom SSH options if needed."
